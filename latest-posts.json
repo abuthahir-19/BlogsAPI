@@ -9,7 +9,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Psychology-Psychology.png"
             },
             "author": {
-                "id": 15,
+                "id": 29,
                 "role": "Horror Writer",
                 "name": "Lucas Evans",
                 "profile": "/images/circleProfiles/cropped_image_24.png",
@@ -43,7 +43,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Psychology-Psychology.png"
             },
             "author": {
-                "id": 14,
+                "id": 28,
                 "role": "Cookbook Author",
                 "name": "Mia Johnson",
                 "profile": "/images/circleProfiles/cropped_image_23.png",
@@ -77,7 +77,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Psychology-Psychology.png"
             },
             "author": {
-                "id": 13,
+                "id": 27,
                 "role": "Travel Writer",
                 "name": "Emily Jones",
                 "profile": "/images/circleProfiles/cropped_image_22.png",
@@ -111,7 +111,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Psychology-Psychology.png"
             },
             "author": {
-                "id": 12,
+                "id": 26,
                 "role": "Self-Help Author",
                 "name": "Kevin Smith",
                 "profile": "/images/circleProfiles/cropped_image_21.png",
@@ -145,7 +145,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Psychology-Psychology.png"
             },
             "author": {
-                "id": 11,
+                "id": 25,
                 "role": "Biographer",
                 "name": "Olivia Bennett",
                 "profile": "/images/circleProfiles/cropped_image_20.png",
@@ -179,7 +179,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 17,
+                "id": 20,
                 "role": "Young Adult Author",
                 "name": "Nathan Brooks",
                 "profile": "/images/circleProfiles/cropped_image_26.png",
@@ -213,7 +213,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 18,
+                "id": 19,
                 "role": "Playwright",
                 "name": "Isabella Clark",
                 "profile": "/images/circleProfiles/cropped_image_27.png",
@@ -247,7 +247,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Education-Education.png"
             },
             "author": {
-                "id": 4,
+                "id": 13,
                 "role": "Fantasy Novelist",
                 "name": "Gareth Morgan",
                 "profile": "/images/circleProfiles/cropped_image_13.png",
@@ -281,7 +281,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Luxury-Luxury.png"
             },
             "author": {
-                "id": 10,
+                "id": 24,
                 "role": "Graphic Novelist",
                 "name": "David Kim",
                 "profile": "/images/circleProfiles/cropped_image_19.png",
@@ -315,7 +315,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Luxury-Luxury.png"
             },
             "author": {
-                "id": 9,
+                "id": 23,
                 "role": "Poet",
                 "name": "Amelia Rose",
                 "profile": "/images/circleProfiles/cropped_image_18.png",
@@ -349,7 +349,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Luxury-Luxury.png"
             },
             "author": {
-                "id": 8,
+                "id": 22,
                 "role": "Non-Fiction Writer",
                 "name": "James Carter",
                 "profile": "/images/circleProfiles/cropped_image_17.png",
@@ -383,7 +383,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 19,
+                "id": 18,
                 "role": "Literary Fiction Writer",
                 "name": "Henry Turner",
                 "profile": "/images/circleProfiles/cropped_image_28.png",
@@ -417,7 +417,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 20,
+                "id": 17,
                 "role": "Crime Novelist",
                 "name": "Rachel Adams",
                 "profile": "/images/circleProfiles/cropped_image_29.png",
@@ -451,7 +451,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Luxury-Luxury.png"
             },
             "author": {
-                "id": 7,
+                "id": 21,
                 "role": "Children's Book Author",
                 "name": "Lily Anderson",
                 "profile": "/images/circleProfiles/cropped_image_16.png",
@@ -485,7 +485,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 21,
+                "id": 16,
                 "role": "Adventure Novelist",
                 "name": "Jack Sawyer",
                 "profile": "/images/circleProfiles/cropped_image_30.png",
@@ -519,7 +519,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Education-Education.png"
             },
             "author": {
-                "id": 3,
+                "id": 12,
                 "role": "Science Fiction Writer",
                 "name": "Lena Schwartz",
                 "profile": "/images/circleProfiles/cropped_image_12.png",
@@ -553,7 +553,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 22,
+                "id": 15,
                 "role": "Dystopian Fiction Writer",
                 "name": "Nina Patel",
                 "profile": "/images/circleProfiles/cropped_image_31.png",
@@ -621,7 +621,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Lifestyle-Lifestyle.png"
             },
             "author": {
-                "id": 6,
+                "id": 14,
                 "role": "Thriller Novelist",
                 "name": "Ethan Black",
                 "profile": "/images/circleProfiles/cropped_image_15.png",
@@ -655,7 +655,7 @@
                 "categoryImage": "https://s3.us-west-004.backblazeb2.com/encurate/static/blogsapi/1/Technology-technology.png"
             },
             "author": {
-                "id": 16,
+                "id": 30,
                 "role": "Memoirist",
                 "name": "Sophia Martinez",
                 "profile": "/images/circleProfiles/cropped_image_25.png",
